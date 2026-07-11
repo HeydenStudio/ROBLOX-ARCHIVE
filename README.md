@@ -1,3 +1,4 @@
+<img width="920" height="430" alt="Heyden Studio" src="https://github.com/user-attachments/assets/c1fff1bc-6a92-4693-9f5c-7999f8805d73" />
 --------------------------
 A repository where .rbxl files containing old Roblox games will be published.
 --------------------------
