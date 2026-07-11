@@ -15,8 +15,7 @@ years of roblox games will be in repository
 2012
 ---------------------------
 Made By Heyden Studio
----------------------------
-<Heyden> <Drak1zz>
+Heyden Drak1zz
 ---------------------------
 heyden.studio.help@gmail.com
 ---------------------------
