@@ -40,3 +40,5 @@ Made By Heyden Studio
 ---------------------------
 heyden.studio.help@gmail.com
 ---------------------------
+https://discord.gg/UMApd8jZkM
+---------------------------
